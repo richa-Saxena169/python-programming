@@ -1,0 +1,12 @@
+[DEV]
+apiUrL:https://api.github.com/users/{}/repos
+outputpath:C:\Users\Shobh\PycharmProjects\LearningPython\output\
+readFile:C:\Users\Shobh\PycharmProjects\LearningPython\output\2024-05-16_11-51-44_AM.txt
+tranformfilepath:C:\Users\Shobh\PycharmProjects\LearningPython\trandformData\
+
+
+[UAT]
+apiUrL:http://uat/hello-world
+pass: hello@2
+username: usn2
+
